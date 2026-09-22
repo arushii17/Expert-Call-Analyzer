@@ -52,8 +52,8 @@ expert-call-analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd expert-call-analyzer
+git clone https://github.com/arushii17/Expert-Call-Analyzer.git
+cd Expert-Call-Analyzer
 ```
 
 ### 2. Create a virtual environment
